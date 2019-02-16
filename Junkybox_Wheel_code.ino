@@ -1,3 +1,5 @@
+// Licenced by : Pineapplem3 Inc. | Compiled and Programmed by : NIRMAL RAM
+
 int trigger = 3;
 int echo = 2;
 int RMP = 10, RMN = 11, LMP = 7, LMN = 6;
